@@ -19,7 +19,7 @@ Participation in a 3-month training test project (unpaid internship / volunteeri
 Two projects in test automation with Selenium Web Driver + Python as part of the credit (completed: 06/2022)
 - Power BI course - basics of data analysis and visualization – Strefa Kursów – in progress
 - SQL foundations - Level 1 and 2 - CODENGA - 08/2022
-- A series of webinars "Analytics Academy" LabMasters Sp. z o. o.(March 24, 2022–April 12, 2022). The scope of the workshop included an introduction for training: SQL language in Oracle databases, business analytics in Tableau, work automation in MS Excel using VBA, data analysis and programming in Python, data analysis and visualization in R, business analytics in Power BI
+- A series of webinars "Analytics Academy" LabMasters Sp. z o. o. (March 24, 2022–April 12, 2022). The scope of the workshop included an introduction for training: SQL language in Oracle databases, business analytics in Tableau, work automation in MS Excel using VBA, data analysis and programming in Python, data analysis and visualization in R, business analytics in Power BI
 - AgileWhichWorks - Agile, Scrum, Kanban learning program - Agile Force / Less is more - in progress
 - Jira course from scratch - project management (Udemy): completed: 12/2021
 - Python - one-semester course - HardCoder (October 11, 2021 - January 24, 2022)
