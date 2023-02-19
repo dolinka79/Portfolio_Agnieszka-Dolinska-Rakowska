@@ -47,7 +47,7 @@ Obtained title: Master of Science (grade: 5.0)
 - German – level A2/B1 - Certificate: Goethe Zertifikat Deutsch A2 (gut - 82%) - exam: 05/2017. Continuation of education at the Agnieszka Drummer Academy - level B1
 - Italian - level A2 (spoken and written - communicative)
 
-# Tools
+# Skills and Tools
 - Jira - bug tracker
 - Trello
 - TestRail - test cases management
