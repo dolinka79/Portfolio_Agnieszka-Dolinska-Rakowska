@@ -30,7 +30,8 @@ Two projects in test automation with Selenium Web Driver + Python as part of the
 - Advanced spreadsheet functions MS Excel / course, 40 hours/ - Maria Curie-Skłodowska University Foundation (February 22–March 23, 2014)
 
 # Education
-
+### 2021 - 2022 Catholic University of Lublin - Master of Business Administration (MBA)
+postgraduate management studies
 ### 2008 WSEI in Lublin
 Real estate management - postgraduate studies
 ### 2006 University of Trade and International Finance in Warsaw
