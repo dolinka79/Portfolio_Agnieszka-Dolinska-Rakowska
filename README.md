@@ -56,7 +56,7 @@ Two projects in test automation with Selenium Web Driver + Python as part of the
 
 # My projects
 
-### Test cases
+### My test cases
 
 ### My bug reports
 
