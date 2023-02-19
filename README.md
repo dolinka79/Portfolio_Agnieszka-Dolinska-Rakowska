@@ -6,6 +6,7 @@ I am very determined person and I hope I would have a chance to get a position i
 
 # Experience
 You can find my professional path in the CV below, where I have shared my previous experience.
+## https://www.linkedin.com/in/agnieszka-dolinska-rakowska/
 
 # Courses, studies in IT:
 2022 - currently - WSPA, Lublin - Computer Science - engineering studies, 1st degree, part-time (weekend system)
