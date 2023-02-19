@@ -27,6 +27,10 @@ Two projects in test automation with Selenium Web Driver + Python as part of the
 - Cost estimation in construction using the Norma program PRO /course, 30 hours/ - ELPRO Sp. z o.o., Lublin - date of completion:December 22, 2019
 - Advanced spreadsheet functions MS Excel / course, 40 hours/ - Maria Curie-Skłodowska University Foundation (February 22–March 23, 2014)
 
+# Education
+### 1998–2003 Politechnika Lubelska, Wydział Inżynierii Budowlanej i Sanitarnej
+Studia stacjonarne, jednolite magisterskie na kierunku: Inżynieria Środowiska. Uzyskany tytuł: Magister inżynier (ocena: 5,0)
+
 # Languages
 - English - level B2 - Certificate: TELC English B2 Certificate (277/300 points - grade: very good) - exam: 06/2016
 - German – level A2/B1 - Certificate: Goethe Zertifikat Deutsch A2 (gut - 82%) - exam: 05/2017. Continuation of education at the Agnieszka Drummer Academy - level B1
