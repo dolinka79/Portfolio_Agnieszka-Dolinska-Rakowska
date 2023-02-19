@@ -26,7 +26,7 @@ Two projects in test automation with Selenium Web Driver + Python as part of the
 ### "Become a tester" training - SII Training Practice (September 11 - September 26, 2021)
 - Excel - automation of calculations /workshop, 6 hours/ - Polish Association of Property Appraisers (March 24, 2021)
 - Excel – a tool facilitating the work of a real estate appraiser /workshops, 6 hours/ - Polish Association of Appraisers (03/12/2020)
-- Cost estimation in construction using the Norma program PRO /course, 30 hours/ - ELPRO Sp. z o.o., Lublin - date of completion:December 22, 2019
+- Cost estimation in construction using the Norma program PRO /course, 30 hours/ - ELPRO Sp. z o.o., Lublin - date of completion: December 22, 2019
 - Advanced spreadsheet functions MS Excel / course, 40 hours/ - Maria Curie-Skłodowska University Foundation (February 22–March 23, 2014)
 
 # Education
