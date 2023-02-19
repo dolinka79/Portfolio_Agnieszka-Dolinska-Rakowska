@@ -1,6 +1,6 @@
 # Portfolio_Agnieszka-Dolinska-Rakowska
 # Me, myself and I:
-My name is Agnieszka Dolińska-Rakowska. After mamy years working in the technical branch (real estate and civil engineering) I have decided to change the path of my career and decide to be a part of IT-branch. I have started my journey with courses and post-graduate studies in software testing and foung it really interesting. Thanks to my experience I have had an opportunity to develop my interpersonal skills which is, in my opinion, really important in such kind of work.  
+My name is Agnieszka Dolińska-Rakowska. After mamy years working in the technical branch (real estate and civil engineering) I have decided to change the path of my career and to become a part of IT-branch. I have started my journey with courses and post-graduate studies in software testing and foung it really interesting. Thanks to my experience I have had an opportunity to develop my interpersonal skills which is, in my opinion, really important in such kind of work.  
 In this portfolio I would like to intruduce myself, share my knowledge ... 
 I am very determined person and I hope I would have a chance to get a position in this field - software testing. This is the reason why I This is why I have been looking for a junior position in testing.
 
