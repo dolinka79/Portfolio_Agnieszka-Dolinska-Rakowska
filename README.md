@@ -9,10 +9,10 @@ You can find my professional path in the CV below, where I have shared my previo
 ### https://www.linkedin.com/in/agnieszka-dolinska-rakowska/
 
 # Courses, studies in IT:
-### 2022 - currently - WSPA, Lublin - Computer Science - engineering studies, 1st degree, part-time (weekend system)
+### - 2022 - currently - WSPA, Lublin - Computer Science - engineering studies, 1st degree, part-time (weekend system)
 - January 2023 - currently Dare IT Challenge - Become a Manual Tester - Participation in a 7-week project in the field of manual software testing
 - 2022 Cherry-IT Training Project 2/2022 Trello - Participation in a 3-month training test project (unpaid internship / volunteering) in the period: October 19, 2022 - December 14, 2022. Project 2/2022 was related to the Trello system. Its main task was: familiarizing the participants with the Scrum methodology and the ceremony related to Scrum (daily), gaining skills related to reporting and reporting bugs, gaining skills related to creating test cases, using the Devtool tool (the work was focused on getting to know and understanding the Console and Network tabs)
-### 2021 - 2022 - WSB University in Toruń - Software tester for mobile and server applications - postgraduate studies. 
+### - 2021 - 2022 - WSB University in Toruń - Software tester for mobile and server applications - postgraduate studies. 
 Two projects in test automation with Selenium Web Driver + Python as part of the credit (completed: 06/2022)
 - Power BI course - basics of data analysis and visualization – Strefa Kursów – in progress
 - SQL foundations - Level 1 and 2 - CODENGA - 08/2022
@@ -20,7 +20,7 @@ Two projects in test automation with Selenium Web Driver + Python as part of the
 - AgileWhichWorks - Agile, Scrum, Kanban learning program - Agile Force / Less is more - in progress
 - Jira course from scratch - project management (Udemy): completed: 12/2021
 - Python - one-semester course - HardCoder (October 11, 2021 - January 24, 2022)
-### "Become a tester" training - SII Training Practice (September 11 - September 26, 2021)
+### - "Become a tester" training - SII Training Practice (September 11 - September 26, 2021)
 - Excel - automation of calculations /workshop, 6 hours/ - Polish Association of Property Appraisers (March 24, 2021)
 - Excel – a tool facilitating the work of a real estate appraiser /workshops, 6 hours/ - Polish Association of Appraisers (03/12/2020)
 - Cost estimation in construction using the Norma program PRO /course, 30 hours/ - ELPRO Sp. z o.o., Lublin - date of completion:December 22, 2019
