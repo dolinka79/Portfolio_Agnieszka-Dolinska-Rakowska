@@ -72,4 +72,5 @@ https://drive.google.com/drive/folders/1h1SSTyLwgF2zBfc5SpQN31eXqX3zx7-0
 https://drive.google.com/drive/folders/1tIYb44a7l6s1hH-cM3EaV4FnGLL_sOFt
 https://drive.google.com/drive/folders/12pyneVNqlZ7IFzLLyWCuH8ZsHCRGLTGG
 
-### My HTML/CSS exercises - I have participated in 6-day Marathon with HTML/CSS conducted by GoIT. Each day I have recived tasks which helped me to build my web page with CV from scratch.
+### My HTML/CSS exercises 
+I have participated in 6-day Marathon with HTML/CSS conducted by GoIT. Each day I have recived tasks which helped me to build my web page with CV from scratch.
