@@ -60,17 +60,12 @@ The scope of the workshop included an introduction for training: SQL language in
 # My projects
 
 ### Test cases
-https://drive.google.com/drive/folders/1pqQ-1TuMhR0din42cYWBFgTMZBYOqDQV
 
 ### My bug reports
-https://drive.google.com/drive/folders/1HbXGeI_B_8EhXLirP0Xdfd7-24dX7o0x
 
 ### My mobile applications testing
-https://drive.google.com/drive/folders/1h1SSTyLwgF2zBfc5SpQN31eXqX3zx7-0
 
 ### My SQL - exercises
-https://drive.google.com/drive/folders/1tIYb44a7l6s1hH-cM3EaV4FnGLL_sOFt
-https://drive.google.com/drive/folders/12pyneVNqlZ7IFzLLyWCuH8ZsHCRGLTGG
 
 ### My HTML/CSS exercises 
 I have participated in 6-day Marathon with HTML/CSS conducted by GoIT. Each day I have recived tasks which helped me to build my web page with CV from scratch.
