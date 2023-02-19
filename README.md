@@ -61,7 +61,7 @@ Obtained title: Master of Science (grade: 5.0)
 - Visual Studio Code - development environment for HTML, CSS
 - HTML/CSS - basics
 
-# IT groups on Facebook
+# IT groups on Facebook followed by me
 - Testowanie oprogramowania
 - Tester oprogramowania - wsparcie na starcie
 - Dare IT Community
