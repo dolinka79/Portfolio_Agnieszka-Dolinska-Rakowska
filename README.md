@@ -36,7 +36,8 @@ Real estate brokerage - postgraduate studies
 ### 2004–2005 Warsaw University of Technology, Faculty of Geodesy and Cartography
 Real estate valuation - postgraduate studies
 ### 1998–2003 Lublin University of Technology, Faculty of Civil and Sanitary Engineering
-Full-time, Master's studies in the field of Environmental Engineering (specialization: water supply and wastewater disposal). Obtained title: Master of Science (grade: 5.0)
+Full-time, Master's studies in the field of Environmental Engineering (specialization: water supply and wastewater disposal). 
+Obtained title: Master of Science (grade: 5.0)
 
 # Languages
 - English - level B2 - Certificate: TELC English B2 Certificate (277/300 points - grade: very good) - exam: 06/2016
