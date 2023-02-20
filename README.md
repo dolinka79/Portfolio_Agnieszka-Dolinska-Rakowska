@@ -72,13 +72,17 @@ Obtained title: Master of Science (grade: 5.0)
 # My projects
 
 ### My test cases
-[test cases](https://drive.google.com/drive/folders/1pqQ-1TuMhR0din42cYWBFgTMZBYOqDQV)
+[Test cases](https://drive.google.com/drive/folders/1pqQ-1TuMhR0din42cYWBFgTMZBYOqDQV)
 
 ### My bug reports
+[Bug reports](https://drive.google.com/drive/folders/1HbXGeI_B_8EhXLirP0Xdfd7-24dX7o0x)
 
 ### My mobile applications testing
+[Mobile testing](https://drive.google.com/drive/folders/1h1SSTyLwgF2zBfc5SpQN31eXqX3zx7-0)
 
 ### My SQL - exercises
+[SQL-part 1](https://drive.google.com/drive/folders/1tIYb44a7l6s1hH-cM3EaV4FnGLL_sOFt)
+[SQL-part 2](https://drive.google.com/drive/folders/12pyneVNqlZ7IFzLLyWCuH8ZsHCRGLTGG)
 
 ### My HTML/CSS exercises 
 I have participated in 6-day Marathon with HTML/CSS conducted by GoIT. Each day I have recived tasks which helped me to build my web page with CV from scratch.
