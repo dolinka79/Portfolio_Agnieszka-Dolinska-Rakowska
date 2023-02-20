@@ -82,6 +82,7 @@ Obtained title: Master of Science (grade: 5.0)
 
 ### My SQL - exercises
 [SQL-part 1](https://drive.google.com/drive/folders/1tIYb44a7l6s1hH-cM3EaV4FnGLL_sOFt)
+
 [SQL-part 2](https://drive.google.com/drive/folders/12pyneVNqlZ7IFzLLyWCuH8ZsHCRGLTGG)
 
 ### My HTML/CSS exercises 
