@@ -1,4 +1,4 @@
-![moje zdjęcie - it](https://user-images.githubusercontent.com/121315411/220471218-d218423c-45ca-4b48-992a-bfa65fd7b45a.jpg)
+![image](https://user-images.githubusercontent.com/121315411/220995731-61fe5747-9fe6-4f22-b28b-cdf4954d8938.png)
 
 
 # Portfolio_Agnieszka-Dolińska-Rakowska
