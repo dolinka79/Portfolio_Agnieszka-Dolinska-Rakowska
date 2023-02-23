@@ -13,7 +13,7 @@ You can find my professional path in the CV below, where I have shared my previo
 ### https://www.linkedin.com/in/agnieszka-dolinska-rakowska/
 
 # Courses, studies in IT:
-### 2022 - currently - WSPA, Lublin - Computer Science - engineering studies, 1st degree, part-time (weekend system)
+### 2022 - currently - Computer Science - engineering studies, 1st degree, part-time (weekend system)
 ### January 2023 - currently - Dare IT Challenge - Become a Manual Tester 
 Participation in a 7-week project in the field of manual software testing
 ### 2022 Cherry-IT Training Project 2/2022 Trello
