@@ -13,6 +13,9 @@ You can find my professional path in the CV below, where I have shared my previo
 ### https://www.linkedin.com/in/agnieszka-dolinska-rakowska/
 
 # Courses in IT:
+### Marathon QA conducted by GoIT
+### Marathon with HTML/CSS conducted by GoIT. 
+Each day I have recived tasks which helped me to build my web page with CV from scratch.
 ### January 2023 - currently - Dare IT Challenge - Become a Manual Tester 
 Participation in a 7-week project in the field of manual software testing
 ### 2022 Cherry-IT Training Project 2/2022 Trello
