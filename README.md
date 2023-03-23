@@ -16,7 +16,7 @@ You can find my professional path in the CV below, where I have shared my previo
 ### February 2023 - Marathon QA conducted by GoIT
 ### February 2023 - Marathon with HTML/CSS conducted by GoIT. 
 Each day I have recived tasks which helped me to build my web page with CV from scratch.
-### January 2023 - currently - Dare IT Challenge - Become a Manual Tester 
+### January 2023 - March 2023 - Dare IT Challenge - Become a Manual Tester 
 Participation in a 7-week project in the field of manual software testing
 ### 2022 Cherry-IT Training Project 2/2022 Trello
 Participation in a 3-month training test project (unpaid internship / volunteering) in the period: October 19, 2022 - December 14, 2022. Project 2/2022 was related to the Trello system. Its main task was: familiarizing the participants with the Scrum methodology and the ceremony related to Scrum (daily), gaining skills related to reporting and reporting bugs, gaining skills related to creating test cases, using the Devtool tool (the work was focused on getting to know and understanding the Console and Network tabs)
